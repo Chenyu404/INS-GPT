@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+logs/
+storage/
+CONFIG.py
+
+.ipynb_checkpoints/
+
+/.autodl/
+/data/
+/chroma_storage/
+/chatglm3-6b/
+/hf_download/
+/LLaMA-Factory/
+
+.gitignore
+frontend/templates/Files.html
+frontend/font/STHUPO.TTF
+frontend/static/2021年10月裁判文书数据.csv
