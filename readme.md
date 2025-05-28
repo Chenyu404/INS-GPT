@@ -5,4 +5,4 @@
 4.用户可通过智能搜索引擎检索理赔数据，得到文书高频词汇生成动态词云图与智能分析服务。
 
 # Framework
-![图片](https://github.com/user-attachments/assets/c31e1294-560d-447f-9460-133f38f7d8f7)
+![图片](INS-GPT-framework1.drawio.png)
